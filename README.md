@@ -1,12 +1,9 @@
 # Gilberto Dos Santos
 
-📚 **Estudante de Engenharia de Software**
+**Computer Science**
 
-🎯 **Meu objetivo é me tornar um desenvolvedor de software habilidoso e contribuir para a criação de produtos impactantes.**
+* *"I´m not your kind"*
 
-
-## Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gildsant/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gildsant)    [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gildsant/)   [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/gildsant)       
 
 ## Skills:
 
