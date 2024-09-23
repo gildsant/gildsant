@@ -2,7 +2,7 @@
 
 **Computer Science**
 
-* *"I´m not your kind"*
+* *Technology, Music and innovation*
 
 
 ## Skills:
