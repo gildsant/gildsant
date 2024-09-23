@@ -2,7 +2,7 @@
 
 **Computer Science**
 
-* *Technology, Music and Innovation*
+* *Technology, music and innovation*
 
 
 ## Skills:
