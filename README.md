@@ -2,7 +2,7 @@
 
 **Computer Science | Software development**
 
-* *Technology, music and innovation*
+* *Technology, games and innovation*
 
 
 ## Skills:
