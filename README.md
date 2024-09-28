@@ -1,6 +1,6 @@
 # Gilberto Dos Santos
 
-**Computer Science**
+**Computer Science | Software development**
 
 * *Technology, music and innovation*
 
