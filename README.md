@@ -1,6 +1,6 @@
 # Gilberto Dos Santos
 
-* *Technology, games and innovation*
+*Technology, games and innovation*
 
 
 ## Skills:
