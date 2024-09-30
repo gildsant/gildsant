@@ -1,6 +1,6 @@
 # Gilberto Dos Santos
 
-* *Technology, games and innovation*
+* *I like technology, games and innovation*
 
 
 ## Tech stack:
