@@ -1,7 +1,5 @@
 # Gilberto Dos Santos
 
-**Computer Science | Software development**
-
 * *Technology, games and innovation*
 
 
