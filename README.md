@@ -1,8 +1,8 @@
 # Gilberto Dos Santos
 
-* *Technology* 💻📱🤖
-* *Science* 🧪🧬🚀
-* *Innovation* 💡⚙️🔋
+* *Technology* 💻
+* *Science* 🚀
+* *Innovation* 💡
 
 
 ## Tech stack:
