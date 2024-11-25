@@ -1,9 +1,7 @@
 # Gilberto Dos Santos
 
-* *Technology* 💻
-* *Science* 🚀
-* *Innovation* 💡
-
+* *Full Stack Developer and data enthusiast*
+* *Creating efficient and impactful solutions with a focus on innovation and technology*
 
 ## Tech stack:
 
