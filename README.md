@@ -1,7 +1,6 @@
 # Gilberto Dos Santos
 
-* *Full Stack Developer and data enthusiast*
-* *Creating efficient and impactful solutions with a focus on innovation and technology*
+* *Full Stack Developer and data enthusiast.*
 
 ## Tech stack:
 
