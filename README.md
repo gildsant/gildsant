@@ -1,6 +1,6 @@
 ## Welcome
 
-Full stack developer focused on backend and data science.
+Full stack developer and data scientist in constant evolution, transforming ideas into efficient technological solutions.
 
 ## Tech stack
 
