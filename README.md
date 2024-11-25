@@ -1,6 +1,6 @@
 # Gilberto Dos Santos
 
-* *Full Stack Developer and data enthusiast.*
+*Full Stack Developer and data enthusiast.*
 
 ## Tech stack:
 
