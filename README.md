@@ -1,6 +1,6 @@
 ## Welcome
 
-Full stack developer and data scientist in constant evolution.
+Full stack developer and data scientist.
 
 ## Tech stack
 
