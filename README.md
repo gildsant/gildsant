@@ -1,6 +1,6 @@
 ## Welcome
 
-Full stack developer and data scientist.
+Back-end developer and data scientist.
 
 ## Tech stack
 
