@@ -1,6 +1,6 @@
 ## Welcome
 
-I`m back-end developer and data scientist.
+I'm software developer and data scientist.
 
 ## Tech stack
 
