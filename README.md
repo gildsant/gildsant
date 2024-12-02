@@ -1,4 +1,4 @@
-## 👋 Welcome
+## 🤝 Welcome
 
 Back-end developer and data scientist.
 
