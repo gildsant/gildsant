@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-I'm software developer and data scientist.
+I'm Gilberto, a technology enthusiast passionate about programming, data science and game development.
 
 ## 💻 Tech stack
 
