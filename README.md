@@ -61,7 +61,8 @@
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/gildsant/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/gildsant/count.svg?" style="width: 200px; height: auto;" />
 </div>
+
 
 ###
