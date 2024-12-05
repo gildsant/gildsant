@@ -56,3 +56,11 @@
 </div>
 
 ###
+
+<h2 align="left">✅ Views</h2>
+
+###
+
+<img align="left" src="https://profile-counter.glitch.me/gildsant/count.svg?"  />
+
+###
