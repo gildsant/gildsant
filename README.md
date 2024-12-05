@@ -1,16 +1,16 @@
-<h3 align="center">👋 Hello world!</h3>
+<h2 align="left">👋 Hello world!</h2>
 
 ###
 
-<h4 align="center">I'm software developer and data scientist.</h4>
+<h5 align="left">I'm software developer and data scientist.</h5>
 
 ###
 
-<h3 align="center">💻 Tech Stack</h3>
+<br> <h2 align="left">💻 Tech Stack</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -52,11 +52,11 @@
 
 ###
 
-<h3 align="center">📊  My stats</h3>
+<br> <h2 align="left">📊  My stats</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gildsant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=gildsant&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gildsant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
@@ -64,11 +64,11 @@
 
 ###
 
-<h3 align="center">✅ Profile views</h3>
+<br> <h3 align="left">✅ Profile views</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/gildsant/count.svg?"  />
 </div>
 
