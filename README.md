@@ -1,12 +1,12 @@
-<h1 align="left">👋 Hello world!</h1>
+<h2 align="left">👋 Hello world!</h2>
 
 ###
 
-<h4 align="left">I'm software developer and data scientist.</h4>
+<p align="left">I'm software developer and data scientist.</p>
 
 ###
 
-<br> <h1 align="left">💻 Tech Stack</h1>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<br> <h1 align="left">📊  My stats</h1>
+<h2 align="left">📊  My stats</h2>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<br> <h3 align="left">✅ Profile views</h3>
+<h2 align="left">✅ Profile views</h2>
 
 ###
 
