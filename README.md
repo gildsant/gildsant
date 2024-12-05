@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">✅ Profile views</h2>
+<h2 align="left">✅ Views</h2>
 
 ###
 
