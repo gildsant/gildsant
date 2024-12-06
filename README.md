@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Developert | Data Scientist | AI Enthusiast</p>
+<p align="left">Transforming ideas into code, exploring the future with artificial intelligence, and uncovering insights through data.</p>
 
 ###
 
