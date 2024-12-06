@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm software developer and data scientist.</p>
+<p align="left">Software Developert | Data Scientist | AI Enthusiast</p>
 
 ###
 
