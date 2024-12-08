@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Transforming ideas into code, exploring the future with artificial intelligence.</p>
+<p align="left">Transforming ideas into code.</p>
 
 ###
 
