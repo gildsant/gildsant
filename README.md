@@ -11,5 +11,3 @@
 ###
 
 <p align="left">💡 Ideas → Code → Innovation<br>📚 Currently learning: Computer Science & AI<br>🎯 Mission: Build meaningful tech<br>🎮 Fun fact: If I’m not coding, I’m gaming</p>
-
-###
