@@ -1,8 +1,8 @@
-<h1 align="left">👋 Hello world!</h1>
+<h2 align="left">👋 Hello world!</h2>
 
 ###
 
-<p align="left">My name is Gilberto and I'm a software developer.</p>
+<p align="left">My name is Gilberto and I'm a Software Developer</p>
 
 ###
 
@@ -10,4 +10,4 @@
 
 ###
 
-<p align="left">💡 Ideas → Code → Magic<br>📚 Currently learning: Computer Science<br>🎯 Mission: Build meaningful tech<br>🎮 Fun fact: If I’m not coding, I’m gaming</p>
+<p align="left">💡 Ideas → Code → Magic<br>🎯 Mission: Build meaningful tech<br>📚 Currently learning: Computer Science<br>🎮 Fun fact: If I’m not coding, I’m gaming</p>
