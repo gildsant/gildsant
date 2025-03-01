@@ -1,11 +1,3 @@
-<h1 align="left">👋 Hello world!</h1>
-
-###
-
-<p align="left">My name is Gilberto and I'm a Software Developer</p>
-
-###
-
 <h2 align="left">✅ About me</h2>
 
 ###
