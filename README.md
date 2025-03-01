@@ -1,4 +1,4 @@
-<h2 align="left">✅ About me</h2>
+<h1 align="left">✅ About me</h1>
 
 ###
 
