@@ -2,4 +2,4 @@
 
 ###
 
-<p align="left">💡 Ideas → Code → Magic<br>🎯 Mission: Build meaningful tech<br>📚 Currently learning: Computer Science<br>🎮 Fun fact: If I’m not coding, I’m gaming</p>
+<p align="left">💡 Ideas → Code → Magic<br>🎯 Mission → Build Meaningful Tech<br>📚 Currently Learning → Computer Science</p>
