@@ -2,4 +2,4 @@
 
 ###
 
-<p align="left">💡 Ideas → Code → Magic</p>
+<p align="left">💡 Ideas → Code → Magic<br>🎯 Mission → Build Meaningful Tech</p>
