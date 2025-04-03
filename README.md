@@ -1,4 +1,4 @@
-## 👨‍💻 About Me  
+# 👨‍💻 About Me  
 
 💡 **Ideas → Code → Magic**  
 🎯 **Mission → Build Meaningful Tech**  
