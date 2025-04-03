@@ -1,5 +1,5 @@
-<h2 align="left">👨‍💻 About me</h2>
+## 👨‍💻 About Me  
 
-###
-
-<p align="left">💡 Ideas → Code → Magic<br>🎯 Mission → Build Meaningful Tech<br>📚 Learning → Improving → Growing</p>
+💡 **Ideas → Code → Magic**  
+🎯 **Mission → Build Meaningful Tech**  
+📚 **Learning → Improving → Growing** 
