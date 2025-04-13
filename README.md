@@ -1,1 +1,2 @@
-## 👨‍💻 Ideas → Code → Magic
+## 👩‍💻About me
+💡 Ideas → Code → Magic
