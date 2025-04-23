@@ -1,1 +1,1 @@
-👨‍💻 Ideas → Code → Magic
+👨‍💻 Think → Code → Magic
