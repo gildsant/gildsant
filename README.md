@@ -1,1 +1,1 @@
-👨‍💻 Think → Code → Magic
+Think → Code → Magic
