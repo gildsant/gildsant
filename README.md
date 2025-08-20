@@ -1,1 +1,1 @@
-THINK → CODE → MAGIC
+Think → Code → Magic
